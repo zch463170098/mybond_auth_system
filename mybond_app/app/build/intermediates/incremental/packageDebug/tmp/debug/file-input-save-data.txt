@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri May 17 18:12:32 CST 2019
+0.baseType=DIRECTORY
+0.base=D\:\\study\\git_mybond_auth\\mybond_app\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

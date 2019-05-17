@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_practice\android studio\app\libs\hellocharts-library-1.5.8.jar"
+        revision="25.0.2"
+        sha1="700944cb3a8ce4fe543cfac1a9146a11cbf702dc">
+        <dex dex="D:\android_practice\android studio\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\hellocharts-library-1.5.8-2a47d4cb9fc8c7f872264c3fb147147a9ddf927b.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\android_practice\android studio\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\support-v4-19.1.0-be12b2bfe61ce84719ca8adbb64a57e21a77c233.jar" />
+    </item>
+    <item
+        jar="D:\android_practice\android studio\app\libs\uApi-android-1.8.65.jar"
+        revision="25.0.2"
+        sha1="33bf108e44fc9c105a64834b7621845cc5e18836">
+        <dex dex="D:\android_practice\android studio\app\build\intermediates\transforms\preJackPackagedLibraries\debug\jars\8000\1f\uApi-android-1.8.65-5c538a030b9a017f90aec23db87eeed01e67d1d2.jar" />
+    </item>
+    <item
+        jar="D:\AndroidSDK\platforms\android-19\android.jar"
+        revision="25.0.2"
+        sha1="9d58c29f33a93f486da30401118a4e45a7f208cb">
+        <dex dex="D:\android_practice\android studio\app\build\intermediates\transforms\preJackRuntimeLibraries\debug\jars\8000\40\android-05d64c9615d2e1e009842cdbaef06439ecba2b70.jar" />
+    </item>
+
+</items>

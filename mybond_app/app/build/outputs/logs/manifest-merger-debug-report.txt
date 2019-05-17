@@ -1,0 +1,204 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:2:1-51:12
+INJECTED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:2:1-51:12
+INJECTED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:2:1-51:12
+INJECTED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:2:1-51:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\ab2390bd64a589b2a4a9f2d3b3b14311\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\088abaeb49ed34b4248ca35b17cc3072\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\85a097d442631c421a4263f86bbe1d2b\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\bf2461c740b50648c162373555088d91\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\49060300edf350fa45b909b4b4a463f4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\03dd351ad816182550beb1aa6a96057d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\3e019f947d09d8088218004e7e5e3471\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\1a6af046cc894f6ccff6945601b54f54\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\fd991ba71281b1b04e782dfc7e826654\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\82cdc19df834fc193cda245a21360b3f\AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\a4a33cfadb2571e69d8c57723477e490\AndroidManifest.xml:17:1-30:12
+INJECTED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:2:1-51:12
+INJECTED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:2:1-51:12
+INJECTED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:4:5-28
+		INJECTED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml
+		INJECTED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:6:5-30
+		INJECTED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml
+		INJECTED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml
+	xmlns:tools
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:5:5-28
+		INJECTED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml
+		INJECTED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:9:5-71
+	android:name
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:9:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:10:5-71
+	android:name
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:10:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:11:5-72
+	android:name
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:11:22-69
+uses-permission#android.permission.INTERNET
+ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:12:5-66
+	android:name
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:13:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:14:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:15:5-68
+	android:name
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:15:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:16:5-74
+	android:name
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:16:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:17:5-81
+	android:name
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:17:22-78
+application
+ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:19:5-49:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\ab2390bd64a589b2a4a9f2d3b3b14311\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\ab2390bd64a589b2a4a9f2d3b3b14311\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\088abaeb49ed34b4248ca35b17cc3072\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\088abaeb49ed34b4248ca35b17cc3072\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\85a097d442631c421a4263f86bbe1d2b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\85a097d442631c421a4263f86bbe1d2b\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\bf2461c740b50648c162373555088d91\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\bf2461c740b50648c162373555088d91\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\49060300edf350fa45b909b4b4a463f4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\49060300edf350fa45b909b4b4a463f4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\03dd351ad816182550beb1aa6a96057d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\03dd351ad816182550beb1aa6a96057d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\3e019f947d09d8088218004e7e5e3471\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\3e019f947d09d8088218004e7e5e3471\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\1a6af046cc894f6ccff6945601b54f54\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\1a6af046cc894f6ccff6945601b54f54\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\fd991ba71281b1b04e782dfc7e826654\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\fd991ba71281b1b04e782dfc7e826654\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\82cdc19df834fc193cda245a21360b3f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\82cdc19df834fc193cda245a21360b3f\AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\a4a33cfadb2571e69d8c57723477e490\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\a4a33cfadb2571e69d8c57723477e490\AndroidManifest.xml:24:5-28:19
+	android:label
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:22:9-41
+	tools:ignore
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:24:9-48
+	android:icon
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:21:9-45
+	android:allowBackup
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:20:9-35
+	android:theme
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:23:9-40
+activity#com.us.view.SplashActivity
+ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:25:9-32:20
+	android:name
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:26:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:30:27-74
+activity#com.us.view.LoginActivity
+ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:34:9-36:60
+	android:label
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:36:13-57
+	android:name
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:35:13-53
+activity#com.us.view.RegisterActivity
+ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:37:9-39:63
+	android:label
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:39:13-60
+	android:name
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:38:13-56
+activity#com.us.view.MainActivity
+ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:40:9-48:20
+	android:label
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:42:13-45
+	android:name
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml:41:13-52
+uses-sdk
+INJECTED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml
+INJECTED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\ab2390bd64a589b2a4a9f2d3b3b14311\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\ab2390bd64a589b2a4a9f2d3b3b14311\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\088abaeb49ed34b4248ca35b17cc3072\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\088abaeb49ed34b4248ca35b17cc3072\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\85a097d442631c421a4263f86bbe1d2b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\85a097d442631c421a4263f86bbe1d2b\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\bf2461c740b50648c162373555088d91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\bf2461c740b50648c162373555088d91\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\49060300edf350fa45b909b4b4a463f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\49060300edf350fa45b909b4b4a463f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\03dd351ad816182550beb1aa6a96057d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\03dd351ad816182550beb1aa6a96057d\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\3e019f947d09d8088218004e7e5e3471\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\3e019f947d09d8088218004e7e5e3471\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\1a6af046cc894f6ccff6945601b54f54\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\1a6af046cc894f6ccff6945601b54f54\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\fd991ba71281b1b04e782dfc7e826654\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\fd991ba71281b1b04e782dfc7e826654\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\82cdc19df834fc193cda245a21360b3f\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\82cdc19df834fc193cda245a21360b3f\AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\a4a33cfadb2571e69d8c57723477e490\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\a4a33cfadb2571e69d8c57723477e490\AndroidManifest.xml:20:5-22:41
+INJECTED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml
+INJECTED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\ab2390bd64a589b2a4a9f2d3b3b14311\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml
+		INJECTED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml
+		ADDED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml
+		INJECTED from D:\study\git_mybond_auth\mybond_app\app\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\ab2390bd64a589b2a4a9f2d3b3b14311\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\088abaeb49ed34b4248ca35b17cc3072\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\088abaeb49ed34b4248ca35b17cc3072\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\bf2461c740b50648c162373555088d91\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\bf2461c740b50648c162373555088d91\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\49060300edf350fa45b909b4b4a463f4\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\49060300edf350fa45b909b4b4a463f4\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\03dd351ad816182550beb1aa6a96057d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\03dd351ad816182550beb1aa6a96057d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\3e019f947d09d8088218004e7e5e3471\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\3e019f947d09d8088218004e7e5e3471\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\1a6af046cc894f6ccff6945601b54f54\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\1a6af046cc894f6ccff6945601b54f54\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\fd991ba71281b1b04e782dfc7e826654\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\fd991ba71281b1b04e782dfc7e826654\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\82cdc19df834fc193cda245a21360b3f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\82cdc19df834fc193cda245a21360b3f\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\ab2390bd64a589b2a4a9f2d3b3b14311\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\ab2390bd64a589b2a4a9f2d3b3b14311\AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\a4a33cfadb2571e69d8c57723477e490\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\a4a33cfadb2571e69d8c57723477e490\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\zch\.gradle\caches\transforms-2\files-2.1\a4a33cfadb2571e69d8c57723477e490\AndroidManifest.xml:26:13-58

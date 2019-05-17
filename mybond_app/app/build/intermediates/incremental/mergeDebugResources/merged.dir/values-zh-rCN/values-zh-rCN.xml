@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Anti_throwing_vibration">防丢设置振动次数:0</string>
+    <string name="Calorie">卡路里</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"转到主屏幕"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s：%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s - %2$s：%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"转到上一层级"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"更多选项"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完成"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"查看全部"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"选择应用"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"关闭"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"开启"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"搜索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"清除查询"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"搜索查询"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"搜索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"提交查询"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"语音搜索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"分享方式"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"通过%s分享"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收起"</string>
+    <string name="action_settings">Settings</string>
+    <string name="altitude">海拔高度:</string>
+    <string name="app_name">MybondAuth</string>
+    <string name="auth">认证命令</string>
+    <string name="auth_gait">步态认证</string>
+    <string name="auth_gait_result">步态认证结果</string>
+    <string name="auth_ppg">PPG认证</string>
+    <string name="auth_ppg_result">PPG认证结果</string>
+    <string name="auth_result">认证结果</string>
+    <string name="bindig_Success">绑定成功</string>
+    <string name="binding_custom">手机请求绑定(自定义)</string>
+    <string name="cancel">取消</string>
+    <string name="close_real_heartrate">关闭实时心率数据同步</string>
+    <string name="close_real_pressure_data_synchronization">关闭实时气压数据同步</string>
+    <string name="close_real_sports_data_synchronization">关闭实时运动数据同步</string>
+    <string name="close_real_temperature">关闭实时体温数据</string>
+    <string name="connect_device">开始连接设备..</string>
+    <string name="connected_device">连接设备成功</string>
+    <string name="custom_binding">手机请求自定义绑定,输入不超过16个字节</string>
+    <string name="custom_delete_binding">手机请求删除自定义绑定,输入自定义绑定内容</string>
+    <string name="custom_login">手机请求自定义登录，输入自定义绑定内容</string>
+    <string name="delete_binding_success">删除绑定成功</string>
+    <string name="device_alarm_list">获取设备闹钟列表请求</string>
+    <string name="device_characteristic">请求获取设备特性</string>
+    <string name="device_log">设备打印信息</string>
+    <string name="device_no">找不到设备</string>
+    <string name="distance">距离</string>
+    <string name="envir_tempeature">环境温度:</string>
+    <string name="fall">跌倒程度</string>
+    <string name="heartrate">心率</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="history_sports">请求历史运动数据并写入文件(这个已经包含有简单的历史睡眠时间了)</string>
+    <string name="hour">小时</string>
+    <string name="input">输入的内容</string>
+    <string name="jump">跳过</string>
+    <string name="lastday_sleep_status">最近的一天睡眠情况</string>
+    <string name="login_custom">用户登录请求(自定义)</string>
+    <string name="login_successful">登录成功</string>
+    <string name="longsit_set">久坐提醒设置-30分钟间隔5分钟</string>
+    <string name="main_clear">清除信息</string>
+    <string name="main_connected">连接</string>
+    <string name="main_cups">水杯相关命令</string>
+    <string name="main_disconnected">断开连接</string>
+    <string name="main_health">健康相关命令</string>
+    <string name="main_message">消息相关命令</string>
+    <string name="main_push">推送相关命令</string>
+    <string name="main_rawdata">裸数据请求</string>
+    <string name="main_rssi">信号</string>
+    <string name="main_security">安全相关命令</string>
+    <string name="main_setting">设置相关命令</string>
+    <string name="main_sports">运动相关命令</string>
+    <string name="minute">分钟</string>
+    <string name="move_history_data_point">请求挪动历史步数数据指针</string>
+    <string name="move_history_sleep_data_point">请求挪动历史睡眠数据指针</string>
+    <string name="ok">确定</string>
+    <string name="phone_to_disconnect">手机请求删除绑定(默认)</string>
+    <string name="real_atmospheric_pressure">请求实时气压数据</string>
+    <string name="real_data_chart">实时数据图表</string>
+    <string name="real_heartrate">实时心率:</string>
+    <string name="real_pressure">实时气压:</string>
+    <string name="real_sports">请求实时运动数据</string>
+    <string name="real_steps">实时步数:</string>
+    <string name="real_temeprature">实时体温:</string>
+    <string name="reg_gait">步态认证注册</string>
+    <string name="reg_gait_result">步态注册结果</string>
+    <string name="reg_ppg">PPG认证注册</string>
+    <string name="reg_ppg_result">PPG注册结果</string>
+    <string name="request_all_health_data_to_file">请求全部健康数据并写入文件</string>
+    <string name="request_allhealth_data">请求测量全部健康数据</string>
+    <string name="request_deletebunding">手机请求删除绑定(自定义)</string>
+    <string name="request_detailed_history_sleep_data">请求详细历史睡眠时间并写入文件</string>
+    <string name="request_disconnect">请求断开</string>
+    <string name="request_history_heartrate">请求历史心率数据并写入文件</string>
+    <string name="request_history_location_action_data">请求历史位置动作数据</string>
+    <string name="request_history_temperature">请求历史温度数据并写入文件</string>
+    <string name="request_location_action_data">请求当前位置动作数据</string>
+    <string name="request_move_history_heartrate">请求挪动历史心率数据指针</string>
+    <string name="request_move_history_location_action_data">请求挪动历史位置动作数据</string>
+    <string name="request_move_history_temperature">请求挪动历史体温数据指针</string>
+    <string name="request_nearly_sleep_data">请求最近一天的总睡眠时间</string>
+    <string name="request_real_heartrate">请求实时心率数据</string>
+    <string name="request_real_heartrate_to_file">请求实时心率数据并写入文件</string>
+    <string name="request_real_sports_tofile">请求实时运动数据并写入文件</string>
+    <string name="request_real_temperature">请求实时体温数据</string>
+    <string name="request_real_temperature_to_file">请求实时体温数据并写入文件</string>
+    <string name="requests_bound">手机请求绑定(默认)</string>
+    <string name="requests_e">手机请求蓝牙设备E号</string>
+    <string name="requests_mac">手机请求蓝牙设备MAC地址</string>
+    <string name="restore_factory">出厂设置</string>
+    <string name="result_order">应答指令</string>
+    <string name="retry">重试</string>
+    <string name="same">自定义绑定，删除自定义绑定，自定义登录内容要一样</string>
+    <string name="search_device">扫描设备</string>
+    <string msgid="146198913615257606" name="search_menu_title">"搜索"</string>
+    <string name="send_result">发送结果</string>
+    <string name="set_clock">闹钟设置</string>
+    <string name="set_name">名字设置</string>
+    <string name="set_picture_1">设置图片1组</string>
+    <string name="set_time">设置时间</string>
+    <string name="settime">时间设置</string>
+    <string name="sleep_status">睡眠状态:</string>
+    <string name="sleep_time">睡眠时间:</string>
+    <string name="start_sleep_time">开始睡眠时间</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="step_goal_setting">计步目标设定</string>
+    <string name="stepandsleep">步数/睡眠</string>
+    <string name="steps">步数</string>
+    <string name="stop_sleep_time">结束睡眠时间</string>
+    <string name="success">成功</string>
+    <string name="super_connect">超级登录(超级登录)</string>
+    <string name="time">时间</string>
+    <string name="title_activity_login">登录</string>
+    <string name="title_activity_register">注册</string>
+    <string name="title_activity_splash">闪屏页</string>
+    <string name="user_login">用户登录请求(默认)</string>
+    <string name="user_set">用户信息设置命令</string>
+    <string name="wait">请等待，历史数据在后台请求</string>
+</resources>

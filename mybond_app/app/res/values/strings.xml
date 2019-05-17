@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MyBondAuth</string>
+    <!--splash 页面-->
+    <string name="jump">jump</string>
+
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="main_setting"> Setup related command </string>
+    <string name="main_message"> News related commands </string>
+    <string name="main_security"> Security-related commands </string>
+    <string name="main_sports"> Sports-related commands </string>
+    <string name="main_health"> Health-related commands </string>
+    <string name="main_cups"> Cups command </string>
+    <string name="main_push"> Push related commands </string>
+    <string name="main_rawdata"> Requests for raw data </string>
+    <string name="main_clear"> Clear information </string>
+    <string name="main_disconnected"> Disconnect </string>
+    <string name="main_connected"> Connection </string>
+    <string name="main_rssi"> Signal </string>
+    <string name="search_device"> Scanner </string>
+    <string name="retry"> Try again </string>
+    <string name="cancel"> Cancel </string>
+    <string name="device_no"> Device not found </string>
+    <string name="connect_device"> Begin connected devices ... </string>
+    <string name="settime"> Time settings </string>
+    <string name="connected_device"> Connection device successfully </string>
+    <string name="device_log">Device print information</string>
+    <string name="phone_to_disconnect">Mobile phone request delete binding (default)</string>
+    <string name="super_connect">Super login (super logon)</string>
+    <string name="user_login">user login request(default)</string>
+    <string name="requests_mac">The phone requests device MAC address</string>
+    <string name="requests_e">the handset requests the Bluetooth device E number</string>
+    <string name="requests_bound">the handset requests the binding (default)</string>
+    <string name="device_characteristic">requests to obtain the equipment characteristic</string>
+    <string name="request_disconnect">requests to disconnect</string>
+    <string name="binding_custom">Phone request binding (custom)</string>
+    <string name="login_custom">user login request (custom)</string>
+    <string name="request_deletebunding">delete binding" (custom)</string>
+    <string name="login_successful">Login successful</string>
+
+    <string name="set_time">time setting</string>
+    <string name="set_clock">Alarm setting</string>
+    <string name="device_alarm_list">Get the device alarm list request</string>
+    <string name="step_goal_setting">Step goal setting</string>
+    <string name="user_set">User information settings command</string>
+    <string name="Anti_throwing_vibration">Anti throwing vibration times: 0</string>
+    <string name="longsit_set">Sedentary reminder set -30 minutes interval of 5 minutes</string>
+    <string name="restore_factory">Factory settings</string>
+    <string name="set_name">Name setting</string>
+    <string name="set_picture_1">Set picture 1 groups</string>
+
+    <string name="real_sports">Request real time movement data</string>
+    <string name="request_real_sports_tofile">Request real-time movement data and write to the file</string>
+    <string name="history_sports">Request historical motion data (which already contains a simple historical sleep time)</string>
+    <string name="real_atmospheric_pressure">request real-time barometric data</string>
+    <string name="move_history_data_point">Request move history step data pointer</string>
+    <string name="request_nearly_sleep_data">Request the total sleep time of the last day</string>
+    <string name="request_detailed_history_sleep_data">Request detailed history sleep time</string>
+    <string name="move_history_sleep_data_point">Request move history sleep data pointer</string>
+    <string name="request_location_action_data">Request current position action data</string>
+    <string name="request_history_location_action_data">Request history location action data</string>
+    <string name="request_move_history_location_action_data">Request move history position action data (*)</string>
+    <string name="close_real_sports_data_synchronization">Real time motion data synchronization is closed</string>
+    <string name="close_real_pressure_data_synchronization">Turn off real-time air pressure data synchronization</string>
+    <string name="real_data_chart">Real data chart</string>
+    <string name="real_steps">real steps:</string>
+    <string name="real_heartrate">real heartrate:</string>
+    <string name="real_temeprature">real temeprature:</string>
+    <string name="real_pressure">real pressure:</string>
+    <string name="altitude">altitude:</string>
+    <string name="envir_tempeature">ambient temperature:</string>
+
+    <string name="steps">steps</string>
+    <string name="distance">distance</string>
+    <string name="Calorie">Calorie</string>
+
+    <string name="request_real_heartrate">Request real time heart rate data</string>
+    <string name="request_history_heartrate">Request history heart rate data</string>
+    <string name="request_real_temperature">Request real-time body temperature data</string>
+    <string name="request_history_temperature">Request history temperature data</string>
+    <string name="request_move_history_heartrate">Request move history heart rate data pointer</string>
+    <string name="request_move_history_temperature">Request move history temperature data pointer</string>
+    <string name="close_real_heartrate">Close real time heart rate data synchronization</string>
+    <string name="request_allhealth_data">Request to measure all health data</string>
+    <string name="request_real_heartrate_to_file">Request real-time heart rate data and write it to the file</string>
+    <string name="request_real_temperature_to_file">Request real-time temperature data and write it to the file</string>
+    <string name="request_all_health_data_to_file">Request all health data and write to the file</string>
+    <string name="close_real_temperature">Close real-time body temperature data</string>
+    <string name="heartrate">heartrate</string>
+    <string name="send_result">Send result</string>
+    <string name="result_order">Answer instruction</string>
+    <string name="success">Success</string>
+    <string name="wait">Please wait for historical data to request in the background</string>
+    <string name="stepandsleep">step/sleep</string>
+    <string name="time">time</string>
+    <string name="fall">Fall degree</string>
+    <string name="lastday_sleep_status">A recent day sleep status:</string>
+    <string name="start_sleep_time">Start sleep time:</string>
+    <string name="stop_sleep_time">Stop sleep time:</string>
+    <string name="sleep_time">sleep time:</string>
+    <string name="sleep_status">sleep status:</string>
+    <string name="hour">hour</string>
+    <string name="minute">m</string>
+    <string name="custom_binding">Mobile phone request custom binding, enter no more than 16 bytes</string>
+    <string name="same">Custom bindings, delete custom bindings, custom login content to be the same</string>
+    <string name="ok">OK</string>
+    <string name="input">Input content</string>
+    <string name="bindig_Success">Bindig Success</string>
+    <string name="custom_delete_binding">The mobile phone request removes the custom binding and enters the custom binding content</string>
+    <string name="delete_binding_success">Delete binding successfully</string>
+    <string name="custom_login"> phone asks for custom login and enters the custom binding content</string>
+
+    <string name="title_activity_login">sign in</string>
+    <string name = "title_activity_splash">splash</string>
+    <string name = "title_activity_register">register</string>
+
+    <string name = "auth">auth</string>
+    <string name = "auth_gait">Gait_auth</string>
+    <string name = "auth_ppg">PPG_auth</string>
+    <string name = "reg_gait">Gait_reg</string>
+    <string name="reg_ppg">PPG_reg</string>
+
+    <string name = "auth_result">authResult</string>
+    <string name = "auth_gait_result">Gait_auth_result</string>
+    <string name = "auth_ppg_result">PPG_auth_result</string>
+    <string name = "reg_gait_result">Gait_reg_result</string>
+    <string name="reg_ppg_result">PPG_reg_result</string>
+</resources>

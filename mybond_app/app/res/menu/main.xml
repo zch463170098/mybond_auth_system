@@ -1,0 +1,71 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.ustone.myubond.MainActivity" >
+
+    <item
+        android:id="@+id/action_scan"
+        android:orderInCategory="100"
+        app:showAsAction="ifRoom"
+        android:title="扫描"/>
+
+    <item
+        android:id="@+id/action_setting"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/main_setting"/>
+    
+    <item
+        android:id="@+id/action_security"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/main_security"/>
+    
+    <item
+        android:id="@+id/action_sports"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/main_sports"/>
+        
+    <item
+        android:id="@+id/action_health"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/main_health"/>
+
+    <item
+        android:id="@+id/action_rawdata"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/main_rawdata"/>
+    <item
+        android:id="@+id/action_auth"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/auth"/>
+    <item
+        android:id="@+id/action_authResult"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/auth_result"/>
+    <item
+        android:id="@+id/action_clear"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/main_clear"/>
+    
+    
+    <item
+        android:id="@+id/action_disconn"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/main_disconnected"/>
+    
+    <item
+        android:id="@+id/action_connect"
+        android:orderInCategory="100"
+        app:showAsAction="never"
+        android:title="@string/main_connected"
+        />
+
+</menu>

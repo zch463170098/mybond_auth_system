@@ -1,0 +1,4 @@
+#Fri May 17 18:12:32 CST 2019
+base.0=D\:\\study\\git_mybond_auth\\mybond_app\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

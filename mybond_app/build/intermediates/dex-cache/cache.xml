@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\android_practice\android studio\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b528d3ab2c896c3445dec23f10c8c6f5e2b0957">
+        <dex dex="D:\android_practice\android studio\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a898162dcc6423ac2ecdeb40cd3307b223f53f1d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\AndroidSDK\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="D:\android_practice\android studio\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_11e800f3314816754847df441f816234f9a502a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_practice\android studio\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\android_practice\android studio\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c2d951ff2d1a59d8e79b33e567cb8deb7687e818\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\android_practice\android studio\app\libs\hellocharts-library-1.5.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="700944cb3a8ce4fe543cfac1a9146a11cbf702dc">
+        <dex dex="D:\android_practice\android studio\app\build\intermediates\transforms\dex\debug\folders\1000\2\hellocharts-library-1.5.8_2a47d4cb9fc8c7f872264c3fb147147a9ddf927b\classes.dex" />
+    </item>
+
+</items>
